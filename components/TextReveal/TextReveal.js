@@ -3,7 +3,7 @@ import 'TextReveal.css'
 
 function TextReveal() {
     return (
-        <div>Home</div>
+        <div>Home GSAP</div>
     )
 }
 
