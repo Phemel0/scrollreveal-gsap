@@ -1,5 +1,5 @@
 import React from 'react'
-import TextReveal from './components/TextReveal'
+import TextReveal from './components/TextReveal/TextReveal'
 
 function App() {
   return (
